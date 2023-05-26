@@ -1,1 +1,6 @@
 # Python_Assignment_4-1
+num=lambda x:x+25                   #Sample input: 10
+result=num(int(input()))            #Expected output: 35
+print(result)                       #My output: 35
+
+
